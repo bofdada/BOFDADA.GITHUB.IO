@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Assignment2 - summary</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body>
+    <h1>Assignment4</h1>
+    <p>Assignment 4- Summary<br>
+        Session4- Networking and security<br>
+        Activity 1- Internet Reference Models <br>
+        In this activity, I learnt some valued basic features of internet reference models.
+Some of my key learnings are as follows:
+1.These models are used across the world and standardized models for computer networks. 
+2. These models are extremely useful as physical computer devices across the world are different. Thus, to connect those hardware devices some uniform models are required. Thus, these reference models serve as a standardized model.
+ 3.I have learnt about two models.
+4.OSI (Open System Interface) model and TCP/IP Model (Transmission Control Protocol and Internet Protocol). 
+5.I learnt that OSI (Open System Interface) model has seven layers.
+Layer 1 – Physical layer- It activates, maintains and deactivates the physical connection along with defining voltages and data rates which are used for transmission. It also helps to convert digital bits into electrical signals.
+
+
+Layer 2 – Data Link layer – This layer helps synchronization and error control for the information which is to be transmitted over the physical link. Along with this, it enables error detection during data transmission.
+Layer 3 – Network layer - This layer signals through various channels to the other end, where it acts as the network controller for deciding the route of data. It also divides outgoing messages as per priority use.
+Layer 4 – Transport layer- This layer transmits data from one end to another end with a decision making of parallel paths or single path.
+Layer 5 – Session layer- Along with message management, it acts as a controlling function.
+Layer 6 – Presentation layer – This layer provides end user seamless experience as it presents information user friendly format.
+Layer 7 – Application layer- It helps in log in and password checking.
+6.I learnt about TCP/IP Model (Transmission Control Protocol and Internet Protocol) models that amalgamate the two layers (Physical and Data link layer) into one single layer i.e. Host-to-Network layer. It has four layers. 
+Layer1-Application Layer- It offers services such as retransferring the files of information, distributing the results etc. It uses the following protocols TELNET, FTP, SMTP, DN, HTTP, NNTP.
+Layer-2 Transport Layer- It uses TCP and UDP protocol for end-to-end transmission. TCP/IP and UDP protocols are used for this layer.
+Layer-3-Internet Layer- Internet Protocol (IP) is used in Internet layer
+Layer-4-Host-to-Network Layer-This is considered as the lowest layer in TCP/IP model
+
+        In this activity I will be able to apply in my current or future environment. I can apply this knowledge on for my office network system. For the future, these models will sketch a framework for designing, developing, and troubleshooting complex systems. The upgraded version of the internet of things (IoT), cloud computing, 5G/6G networks, edge computing, and artificial intelligence (AI) will apply these reference models in innovative ways. For e.g. In terms of 5G, edge computing will involve splitting tasks between the edge devices (Layer 1/2) and cloud services (Layer 7), optimizing bandwidth and reducing latency, Also, IoT-based smart city solutions can use OSI’s layering to design efficient communication for traffic management, waste management, and energy systems. <br>
+      Activity 2- Internet Domain Name System <br> 
+        In this activity, I learnt about features about Internet domain name systems.
+        1. It facilitates the host name to an address by using a hierarchical naming scheme to distribute database of IP addresses and associated names
+        2 I learnt about the IP address, which is unique to each host present on Internet, 32 bits (4 bytes) long and possess two parts, these are host and network component.
+      3.I learnt that Uniform Resource Locator (URL) is a web address which locates a document over the internet.
+4.I learnt that URL has two types. One of those is Absolute URL (complete address of a resource on the web), another one is Relative URL (partial address of a webpage).
+5.I learnt about domain name system has the components called Domain Names, Domain Name Space, Name Server.
+6.I learnt that domain name refers to string associated with an IP address for e.g.,.com or country specific au, in, za, us.
+7.I learnt that domain name space means a hierarchy structure in the internet naming structure where zone is collection of nodes (sub domains) under the main domain.
+8.I learnt that severs are classified into three categories which are root server, primary server and secondary Server.
+        In this activity I will be able to apply in my current or future environment by understanding the DNS. It will help me currently working in the office. In future this system will become more secure. DNS will prevent domain hijacking and cache poisoning attacks. It will have integration with Zero Trust security models. For e.g. DNS-based filtering will proactively block access to suspicious sites. In a nutshell, future DNS applications will adopt simple name resolutions to encompass new areas like security, privacy, Gen AI, quantum computing, and IoT. Future of DNS will be  a more efficient structure  of the internet’s infrastructure than today.
+<br>
+    </p>
+  </body>
+</html>
