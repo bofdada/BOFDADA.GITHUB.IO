@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Assignment2 - summary</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body>
+    <h1>Assignment4</h1>
+    <p>Assignment4- Summary<br>
+        Session 4- Networking and Security<br>
+        Activity 1- Multi factor authentication <br>
+        In this activity, I learnt the importance of two factor authentication.
+Some of my key learnings are as follows:
+1.I found that the multi factor (two-factor authentication) is the most secure way to sign in the website or application.
+2. I can personalize using the authenticator application
+3.I learnt that mobile based authentication is not fully secured as there is a possibility of phone cloning.
+ 4.I learnt that the process of authentication involves people using their personal access codes with  a one-time-valid, dynamic passcode, typically consisting of 4 to 6 digits. 
+        In this activity I will be able to apply in my current or future environment, as in today`s high tech era maximum official and email communication occurs through email. I can apply this knowledge on my personal email and office email in terms of password security and hacking etc. The future is going to be more sophisticated use of fingerprints, facial recognition, voice ID, or even behavioral biometrics (like typing patterns). <br>
+     
+
+ Activity 2- Internet Security<br> 
+        In this activity, I learnt about features about Internet Security.
+        1. It facilitates users having secure communication while using the internet platform.
+        2, I learnt about two internet security protocols, they are called Internet Security Protocol (IPSec), Secure Socket Layer (SSL)
+      3.I learnt that mobile worms, malware and mobile ransomware, large scale attacks like Stuxnet, spam, and phishing
+4, I learnt that phishing email is one of the major threats today. It can be detected by wrong spelling or grammar, giving a threat etc.
+        In this activity I will be able to apply in my current or future environment by trying to behave as a more secure internet user. In future, automated systems will detect threats in advance before they attack. Even identity of the user will be modified using continuous authotication.Machines will adopt more human -friendly security measures.
+ <br>
+    </p>
+  </body>
+</html>
